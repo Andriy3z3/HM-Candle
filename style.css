@@ -40,7 +40,7 @@ ul{
     position: absolute;
     left: 0;
     bottom: 0;
-    background-image: url(../images/section-decor.png);
+    background-image: url(images/section-decor.png);
     width: 22px;
     height: 30px;
 }
@@ -128,7 +128,7 @@ button{
 .phone::before{
     content: '';
     position: absolute;
-    background-image: url(../images/phone.svg);
+    background-image: url(images/phone.svg);
     width: 14px;
     height: 14px;
     left: -23px;
@@ -554,7 +554,7 @@ button{
 
 .accordeon__title::after{
     content: "";
-    background-image: url(../images/arrow.svg);
+    background-image: url(images/arrow.svg);
     width: 16px;
     height: 16px;
     position: absolute;
@@ -582,7 +582,7 @@ button{
 }
 
 .promo{
-    background-image: url(../images/promo-bg.jpeg);
+    background-image: url(images/promo-bg.jpeg);
     padding: 140px 0;
     background-repeat: no-repeat;
     background-size: cover;
