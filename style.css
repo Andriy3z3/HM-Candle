@@ -1024,6 +1024,8 @@ button{
     .contacts {
         padding: 90px 0 50px;
     }
+    .accordeon__text {
+        font-size: 12px
 }
 
 @media (max-width: 500px){
